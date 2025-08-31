@@ -32,7 +32,7 @@ ul {
     display: flex;
     align-items: center;
     background-color: #1f2937;
-    padding: 0px 90px 0px 90px;
+    padding: 0px 20% 0px 20%;
     color: #f9faf8;
     justify-content: center;
 }
@@ -41,7 +41,7 @@ ul {
     background-color: #1f2937;
     display: flex;
     color: #f9faf8;
-    padding: 90px 90px 90px 90px;
+    padding: 90px 20% 90px 20%;
     justify-content: center;
     gap: 10px;
 }
