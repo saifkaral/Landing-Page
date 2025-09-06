@@ -1,1 +1,1 @@
-This is the Odin Project Flexbox Landing Page assignment now the website is fully functional
+This is the Odin Project Flexbox Landing Page assignment now the website is fully functional and this is a test
